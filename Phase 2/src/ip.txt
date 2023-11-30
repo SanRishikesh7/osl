@@ -1,0 +1,7 @@
+$AMJ030400080003
+GD20PD20GD30PD30LR30SR40PD40H
+$DTA
+Hello mam this is group 6
+We are in IT department
+Done
+$END0304
