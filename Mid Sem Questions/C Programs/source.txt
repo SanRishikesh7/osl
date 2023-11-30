@@ -1,0 +1,7 @@
+We declare two file pointers, sourceFile and destinationFile.
+
+We open the source file ("source.txt") in read mode and the destination file ("destination.txt") in write mode. If either file fails to open, the program prints an error message and exits.
+
+We use a while loop to read characters from the source file one by one using fgetc() and write them to the destination file using fputc() until the end of the file is reached (EOF).
+
+Finally, we close both files to ensure that the changes are saved, and we print a success message.
